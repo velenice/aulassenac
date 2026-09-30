@@ -1,0 +1,24 @@
+{
+  "name": "aulassenac",
+  "version": "1.0.0",
+  "description": "Exercicios de aula do Senac",
+  "main": "aula03.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velenice/aulassenac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/velenice/aulassenac/issues"
+  },
+  "homepage": "https://github.com/velenice/aulassenac#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^8.7.2"
+  }
+}
