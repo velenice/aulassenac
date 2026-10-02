@@ -14,5 +14,5 @@ let idade_depois = idade + 1;
 console.log("Bem vindo, " + nome + "!");
 // console.log(typeof idade);
 // console.log(typeof idade_depois);
-console.log("Ano que vem vc terá " + idade_depois + "anos.");
-    
+console.log("Ano que vem vc terá " + idade_depois + "anos.")
+//console.log("Ano que vem vc terá-idade +1+" anos,");
